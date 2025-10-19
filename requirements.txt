@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+# dataiku is optional; only needed if you run inside Dataiku DSS
+# dataiku-api-client
+pytest
